@@ -1,6 +1,6 @@
 Ola pessoal :wave:
 
-Me chamo Glaylson Guedes, sou um programador (em aprendizado) Front End. Estou estudando no DevClub e atualmente estou
+Me chamo Glaylson Guedes, sou um programador (em aprendizado) Front End. Estudo no DevClub e atualmente estou
 aprendendo tecnologias necesssarias para me tornar um grande desenvolvedor.
 <br>
 <br>
